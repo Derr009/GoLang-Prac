@@ -1,0 +1,6 @@
+ID,Amount,Status
+T001,500.50, success 
+T002,-50.00,failed
+T003,1200.00,PENDING
+T004,750.25,SUCCESS
+T005,0.00,cancelled
